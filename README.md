@@ -1,0 +1,1 @@
+you can open this project with Live Server.
